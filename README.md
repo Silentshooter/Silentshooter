@@ -1,7 +1,6 @@
 - 🔭 I’m currently working on College Project
 - 🌱 I’m currently learning FastAPI, Java :fire:
 - 👯 I’m looking to collaborate on any project
-- 💬 Ask me about *nothing*
 - 📫 How to reach me: 
   -  https://www.instagram.com/aps_clickshotz/
   -  https://www.linkedin.com/in/anuraan-paul-18256622b/
