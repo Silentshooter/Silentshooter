@@ -8,6 +8,9 @@
 - 🌱 I’m currently learning **ReactJs TailwindCss Javascript**
 
 - 👯 I’m looking to collaborate on **Java and Opensource**
+- 👨‍💻 All of my projects are available at [https://github.com/Silentshooter](https://github.com/Silentshooter)
+
+- 📫 How to reach me **https://silentshooter.github.io/Anuraans-Web/**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1cafZtBk5DHh0UgV36gL4IXYy-w3iGu0o/edit?usp=sharing&ouid=103272086274166704006&rtpof=true&sd=true](https://docs.google.com/document/d/1cafZtBk5DHh0UgV36gL4IXYy-w3iGu0o/edit?usp=sharing&ouid=103272086274166704006&rtpof=true&sd=true)
 
